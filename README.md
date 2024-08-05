@@ -1,7 +1,7 @@
 ### Hey, I'm Bruno Dias! 👋 
 At the moment a Systems Analysis and Development student. I continue to improve my knowledge in the JavaScript stack and currently learning Java. Welcome. Feel free to exchange experiences.
 
-_Where i can improve? Feel free to contribute, I'm always willing to improve._ :)
+_Where can i improve? Feel free to contribute, I'm always willing to improve._ :)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/eobrunodias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dias-b71609275/) 
