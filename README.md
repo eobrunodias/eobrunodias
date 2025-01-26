@@ -1,5 +1,5 @@
 ### Hey, I'm Bruno Dias! 👋 
-At the moment a Systems Analysis and Development student. I continue to improve my knowledge in the JavaScript stack and currently learning Java. Welcome. Feel free to exchange experiences.
+At the moment a Systems Analysis and Development student. I continue to improve my knowledge in the JavaScript stack and currently learning C#/.Net. Welcome. Feel free to exchange experiences.
 
 _Where can i improve? Feel free to contribute, I'm always willing to improve._ :)
 
