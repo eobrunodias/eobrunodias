@@ -11,14 +11,12 @@ At the moment a Systems Analysis and Development student. I continue to improve 
 ## Programming Language
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs)](https://skillicons.dev)
 
-## Frontend/Lib
+
+## Frontend | Library | Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,next,,sass,styledcomponents,tailwind,,figma,ps)](https://skillicons.dev)
 
-## Backend/DevOps
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,,docker,git)](https://skillicons.dev)
-
-## Database/ORM
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,,prisma,typeorm)](https://skillicons.dev)
+## Backend | Database | DevOps
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,prisma,,postgres,mysql,mongodb,,docker,git)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 
