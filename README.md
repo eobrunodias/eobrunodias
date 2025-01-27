@@ -14,7 +14,7 @@ At the moment a Systems Analysis and Development student. I continue to improve 
 ## Frontend/Lib
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,next,,sass,styledcomponents,tailwind,,figma,ps)](https://skillicons.dev)
 
-## Backend/Database/DevOps
+## Backend/DevOps
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,,docker,git)](https://skillicons.dev)
 
 ## Database/ORM
