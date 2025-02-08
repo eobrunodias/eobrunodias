@@ -16,7 +16,7 @@ At the moment a **Systems Analysis and Development** student. I continue to impr
 ### • Frontend | Library | Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,next,sass,styledcomponents,tailwind,figma,ps)](https://skillicons.dev)
 
-`HTML`,`CSS`,`React`,`Next.js`,`SASS`,`Styled-Components`,`Tailwind`,`Figma`,`Photoshop`
+`HTML`, `CSS`, `React`, `Next.js`, `SASS`, `Styled-Components`, `Tailwind`, `Figma`, `Photoshop`
 
 ### • Backend | Database | DevOps
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,prisma,postgres,mysql,mongodb,docker,git)](https://skillicons.dev)
