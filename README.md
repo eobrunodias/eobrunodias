@@ -4,7 +4,10 @@ At the moment a **Systems Analysis and Development** student. I continue to impr
 **Where can i improve? Feel free to contribute, I'm always willing to improve. :)**
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dias-b71609275/) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/eobrunodias)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dias-b71609275/) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/eobrunodias)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:brunodias.contact@gmail.com)  
 
 ## 💻 Tech Stack:
 
@@ -22,4 +25,3 @@ At the moment a **Systems Analysis and Development** student. I continue to impr
 [![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,prisma,postgres,mysql,mongodb,docker,git)](https://skillicons.dev)
 
 `Node.js`, `Express.js` , `Nest.js`, `Prisma` , `Postgress`, `MySQL`, `MongoDB`, `Docker`, `Git`
-
